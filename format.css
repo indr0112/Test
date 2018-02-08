@@ -1,0 +1,26 @@
+body {
+	background-image:url ("wallpaper.jpg");
+	background-repeat: no-repeat;*/
+}
+img{
+	width: 50%
+}
+
+#content {
+ width: 80%
+ margin: auto;
+ }
+ 
+ #text {
+	background-color: white;
+ }
+ 
+ #list {
+	background-color: grey;
+ }
+ 
+ #button1 {
+	 width: 100%
+ }
+ 
+ 
